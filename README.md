@@ -1,6 +1,9 @@
 ![Header](https://github.com/GitHoms/GitHoms/blob/main/Assets/comp.jpg)
 
-About me
+Hey, are there bugs?
+
+Hi there!
+I would like to share some web and mobile testing portfolio items that I gained during my studies.
 
 Latest
 
