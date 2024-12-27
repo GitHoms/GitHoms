@@ -2,9 +2,9 @@
 
 ## Hey, are there bugs?
 ### Hi there!
-#### I would like to share some web and mobile testing portfolio items that I gained during my studies.
+ I would like to share some web and mobile testing portfolio items that I gained during my studies.
 
-Latest
+![Header]
 
 Languages and Tools
 
