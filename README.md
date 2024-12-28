@@ -1,4 +1,4 @@
-![Header](https://github.com/GitHoms/GitHoms/blob/main/Assets/comp.jpg)
+![Header](https://github.com/GitHoms/GitHoms/blob/main/Assets/freepik__candid-image-photography-natural-textures-highly-r__91769.jpeg)
 
 ## Hey, are there bugs?🪲
 ### Hi there!
@@ -13,6 +13,8 @@ ___
 + Completed a [`Python`](https://stepik.org/cert/2316397) programming course
 
 + Completed [`SQL`](https://stepik.org/cert/2633210) course
+
++ My [`resume`](https://hh.ru/resume/d70d6637ff0dec42550039ed1f736b7a4f3065)
 
 >And much more...
 
