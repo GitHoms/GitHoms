@@ -24,7 +24,7 @@ ___
 >And much more...
 
 ## My stack
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=black"/> <img src="https://img.shields.io/badge/Charles-fffff0?style=for-the-badge&logo=charles&logoColor=yellow"/> <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=black"/> <img src="https://img.shields.io/badge/Charles-808080?style=for-the-badge&logo=charles&logoColor=gold"/> <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/git-A9A9A9?style=for-the-badge&logo=git&logoColor=orange"/> <img src="https://img.shields.io/badge/github-293133?style=for-the-badge&logo=github&logoColor=181717"/> <img src="https://img.shields.io/badge/SOAP UI-black?style=for-the-badge&logo=svelte&logoColor=yellow"/> <img src="https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=AFEEEE"/>
 
 
 
