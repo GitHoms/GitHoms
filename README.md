@@ -1,27 +1,37 @@
 ![Header](https://github.com/GitHoms/GitHoms/blob/main/Assets/freepik__candid-image-photography-natural-textures-highly-r__91769.jpeg)
 
-## Hey, are there bugs?🪲
-My introduction to the IT field began with studying Python when I completed the course "Generation | Python for Beginners." During my studies, I became interested in testing and decided to develop my skills in this area.
+# QA Engineer | Миграции, автоматизация, качество в высоконагруженных продуктах
 
-I am currently an entry-level software tester with basic skills in Jira and Azure DevOps for task management, as well as in Postman for API testing. I have worked with Charles and have foundational knowledge of REST and SOAP, as well as in describing web services using WSDL and XML data structures.
+Инженер по обеспечению качества с опытом комплексного тестирования веб и мобильных приложений в высоконагруженной среде. Моя экспертиза лежит в области обеспечения бесперебойного качества во время крупных архитектурных изменений, оптимизации QA-процессов и внедрения автоматизации для снижения рутины.
 
-Additionally, I have basic knowledge of HTML and CSS, as well as skills in using DevTools in the context of testing. I completed the course "Software Testing from Scratch" by Artsiom Rusau and have also delved into SQL, web application testing, and much more.
+## 🎯 Ключевые достижения
+*   **Миграция без потерь:** Обеспечил успешный релиз ключевых модулей (постинг, комментарии) социальной сети при переходе на микросервисную архитектуру, исключив попадание критических дефектов в продакшен.
+*   **Оптимизация процессов:** Сократил технический долг команды на 40% за счет систематизации и актуализации баг репортов. Выстроил цикл работы с дефектами, сократив среднее время жизни бага в системе на ~35%.
+*   **Автоматизация и покрытие:** Повысил покрытие тестами на 30% за счет структурированной тестовой документации. Автоматизировал ручные сценарии (Python, Postman), что сократило время на регрессионное тестирование примерно на 20%.
 
- I would like to share some web and mobile testing portfolio items that I gained during my studies.
+## 🛠 Технический стек и экспертиза
+*   **Тестирование:** Полный цикл (регресс, интеграция, кросс-платформенное) для Web, iOS, Android. Тест-дизайн (классы эквивалентности, граничные значения).
+*   **Документирование:** Тест-кейсы, чек-листы, mind maps, тест-планы. Обеспечивал покрытие >90% критичных сценариев.
+*   **Инструменты:** Jira, Confluence, Postman, Charles, DevTools, XCode, Android Studio, Kafka, GitLab.
+*   **Автоматизация (начальный уровень, активное развитие):** API-тесты (Postman, Python + requests), SQL для проверки данных, Git. Готов к углублению в Selenium, Appium, pytest.
+*   **Процессы:** Работа в Agile/Scrum-командах, планирование спринтов, оценка задач, коммуникация с PM и разработчиками.
+
+## 📈 Обо мне
+Мой путь в IT начался с Python, но страсть к созданию надежных продуктов привела меня в тестирование. Я ценю системный подход, ясную коммуникацию и постоянное улучшение процессов. Мой фокус — не просто искать баги, а быть гарантом качества и надежности продукта для пользователей.
+
 ___
-## A Few Quick Facts
-+ I'm currently a junior `QA engineer`.
+## Начало начал
++ Текущий уровень middle `QA engineer`.
 
-+ Completed a course Manual Software [`Testing Engineer`](https://stepik.org/cert/2709154)
++ Основной курс [`Testing Engineer`](https://stepik.org/cert/2709154)
 
 
-+ Completed a [`Python`](https://stepik.org/cert/2316397) programming course
++ ЯП [`Python`](https://stepik.org/cert/2316397)
 
-+ Completed [`SQL`](https://stepik.org/cert/2633210) course
++ БД [`SQL`](https://stepik.org/cert/2633210)
 
-+ My [`resume`](https://hh.ru/resume/d70d6637ff0dec42550039ed1f736b7a4f3065)
++ Моё [`resume`](https://hh.ru/resume/d70d6637ff0dec42550039ed1f736b7a4f3065)
 
->And much more...
 
 ## My stack
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=black"/> <img src="https://img.shields.io/badge/Charles-808080?style=for-the-badge&logo=charles&logoColor=gold"/> <img src="https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=4479A1"/> <img src="https://img.shields.io/badge/git-A9A9A9?style=for-the-badge&logo=git&logoColor=orange"/> <img src="https://img.shields.io/badge/github-293133?style=for-the-badge&logo=github&logoColor=181717"/> <img src="https://img.shields.io/badge/SOAP UI-black?style=for-the-badge&logo=svelte&logoColor=yellow"/> <img src="https://img.shields.io/badge/python-gray?style=for-the-badge&logo=python&logoColor=AFEEEE"/>
