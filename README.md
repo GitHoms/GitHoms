@@ -1,10 +1,14 @@
 ![Header](https://github.com/GitHoms/GitHoms/blob/main/Assets/freepik__candid-image-photography-natural-textures-highly-r__91769.jpeg)
 
-# QA Engineer | Миграции, автоматизация, качество в высоконагруженных продуктах
+# Инженер по тестированию
+## 📫 Контакты и резюме
+*   📄 Моё актуальное [`резюме на hh.ru`](https://hh.ru/resume/d70d6637ff0dec42550039ed1f736b7a4f3065)
+*   💼 Telegram ([ZununAhun](https://t.me/ZununAhun))
+*   📧 ([Почта]vladhoms@gmail.com)
 
 Ловлю баги, но больше люблю вникать в требования и архитектуру, чтобы этих багов не было с самого начала. Работал в высоконагруженном проекте (миграция монолита на микросервисы), поэтому понимаю, что падает не только от ошибок в коде, но и от нагрузки.
 
-С разработчиками говорю без переводчика, с продактами — по делу. Могу настоять на своём, но умею услышать чужое мнение. Для меня качество — это не когда релиз проверили, а когда фича с самого начала сделана так, чтобы не ломаться.
+С разработчиками говорю без переводчика, с продактами по делу. Могу настоять на своём, но умею услышать чужое мнение. Для меня качество это не когда релиз проверили, а когда фича с самого начала сделана так, чтобы не ломаться.
 
 ## 🎯 Ключевые достижения
 
@@ -39,6 +43,7 @@ ___
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
 ![SoapUI](https://img.shields.io/badge/SoapUI-6DB33F?style=for-the-badge&logo=soapui&logoColor=white)
 ![Charles](https://img.shields.io/badge/Charles-808080?style=for-the-badge&logo=charles&logoColor=gold)
+![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-white?style=for-the-badge&logo=mysql&logoColor=4479A1)
 ![Git](https://img.shields.io/badge/git-A9A9A9?style=for-the-badge&logo=git&logoColor=orange)
 ![GitLab](https://img.shields.io/badge/gitlab-293133?style=for-the-badge&logo=gitlab&logoColor=FC6D26)
@@ -50,8 +55,3 @@ ___
 ![XCode](https://img.shields.io/badge/XCode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
 
 ___
-## 📫 Контакты и резюме
-
-*   📄 Моё актуальное [`резюме на hh.ru`](https://hh.ru/resume/d70d6637ff0dec42550039ed1f736b7a4f3065)
-*   💼 Telegram ([Телега](https://t.me/ZununAhun))
-*   📧 Почта (vladhoms@gmail.com)
