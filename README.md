@@ -3,8 +3,8 @@
 # Инженер по тестированию
 ## 📫 Контакты и резюме
 *   📄 Моё актуальное [`резюме на hh.ru`](https://hh.ru/resume/d70d6637ff0dec42550039ed1f736b7a4f3065)
-*   💼 Telegram ([`ZununAhun`](https://t.me/ZununAhun))
-*   📧 ([`Почта`]vladhoms@gmail.com)
+*   💼 [`Telegram`](https://t.me/ZununAhun)
+*   📧 [`Почта`](vladhoms@gmail.com)
 
 Ловлю баги, но больше люблю вникать в требования и архитектуру, чтобы этих багов не было с самого начала. Работал в высоконагруженном проекте (миграция монолита на микросервисы), поэтому понимаю, что падает не только от ошибок в коде, но и от нагрузки.
 
@@ -32,7 +32,12 @@
 ___
 ## 🚀 Мои проекты и сертификаты
 
-**Базовый фундамент:**
+**Учебные и практические проекты:**
+*   📬 [`API testing`](https://github.com/GitHoms/API_testing) — коллекции тестов, автотесты, работа с Postman и Python
+*   🤖 [`Avito-Internship-assignments-2025`](https://github.com/GitHoms/Avito-Internship-assignments-2025) — решение конкурсных заданий на автоматизацию (Python)
+*   🗄️ [`SQL`](https://github.com/GitHoms/SQL) — примеры запросов, работа с БД, учебные задачи
+
+**Базовый фундамент (сертификаты):**
 *   🎓 Основной курс [`Testing Engineer`](https://stepik.org/cert/2709154)
 *   🐍 ЯП [`Python`](https://stepik.org/cert/2316397)
 *   🗄️ БД [`SQL`](https://stepik.org/cert/2633210)
